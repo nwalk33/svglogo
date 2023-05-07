@@ -23,3 +23,5 @@ This project is licensed under the MIT License.
 I was able to create this application with the help of UCLA staff and my colleuges. 
 
 # Links
+https://github.com/nwalk33/svglogo
+https://drive.google.com/file/d/1wXVq8137Simh1wJbzcyauzp5FJsvSNMv/view
